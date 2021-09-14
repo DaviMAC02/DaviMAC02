@@ -8,5 +8,5 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: https://www.linkedin.com/in/davicintra/
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: In 1.5 ms sun produces more energy than all humans in a whole year
+- ⚡ Fun fact: In 1.5 ms sun produces more energy than all humans consume in a whole year
 
