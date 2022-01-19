@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m seeking for my first dev opportunity
-- 🌱 I’m currently learning ReactJS, React Native, NodeJS, MongoDB
+- 🌱 I’m currently learning Pyhton, R, Data Science, Machine Learning, Statistics
 - 👯 I’m looking to collaborate on as many projects as possible
 - 🤔 I’m looking for help with understanding a dev routine
 - 💬 Ask me about anything
