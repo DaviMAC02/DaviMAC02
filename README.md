@@ -12,7 +12,7 @@
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Davi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Davi-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Davi-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnickelodeon.fandom.com%2Fwiki%2FJimmy_Neutron&psig=AOvVaw2j_ywxLAnG5zRmlK2Xn75n&ust=1670876223974000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCJ8o-x8vsCFQAAAAAdAAAAABAE?width=676&height=676">
 </div>
   
   ##
