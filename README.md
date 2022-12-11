@@ -12,7 +12,7 @@
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Davi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Davi-pic" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/nickelodeon/images/a/a6/Jimmy_Neutron_%28FOP_Style%29.png/revision/latest?cb=20200416062932">
+  <img align="right" alt="Davi-pic" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/nickelodeon/images/a/a6/Jimmy_Neutron_%28FOP_Style%29.png/revision/latest?cb=20200416062932?width=676&height=676">
 </div>
   
   ##
