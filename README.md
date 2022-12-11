@@ -11,14 +11,13 @@
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Davi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Davi-pic" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/nickelodeon/images/a/a6/Jimmy_Neutron_%28FOP_Style%29.png/revision/latest?cb=20200416062932?width=976&height=976">
+  <img align="right" alt="Davi-pic" height="250" style="border-radius:50px;" src="https://static.wikia.nocookie.net/nickelodeon/images/a/a6/Jimmy_Neutron_%28FOP_Style%29.png/revision/latest?cb=20200416062932?width=976&height=976">
 </div>
   
   ##
  
 <div> 
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
   <a href = "mailto:davi.cintra2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davicintra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
