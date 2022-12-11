@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m seeking for my first dev opportunity
-- 🌱 I’m currently learning the MERN and MEVN stack 
+- 🌱 I’m currently learning the Frontend and Backend technologies 
 - 👯 I’m looking to collaborate on as many projects as possible
 - 🤔 I’m looking for tips to become a better backend developer
 - 💬 Ask me about anything
