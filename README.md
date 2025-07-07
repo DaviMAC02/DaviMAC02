@@ -1,5 +1,3 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 ### Hello 🌎, I'm Davi
 
 With more than 5 years of experience as a Software Engineer, I’m driven to build tech solutions that bridge the gap between the digital and real worlds. Skilled in both frontend and backend development, I contribute to everything from disruptive startups to large-scale enterprise systems. I’m dedicated to writing clean, maintainable code and designing with the user in mind. I thrive in environments that embrace innovation and encourage continuous growth. Let’s bring technology to life! 🚀
