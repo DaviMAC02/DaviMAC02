@@ -2,7 +2,7 @@
 
 **AI Engineer & Software Engineer.** Turning “what if” into “it’s live.”
 
-I build production GenAI systems (RAG pipelines, agentic workflows, LLM evaluation) end to end, from the distributed backends they run on to the React and Next.js frontends people use. 6+ years across fintech, payments and AI products, taking them from day zero to go-live.
+I build production GenAI systems (RAG pipelines, agentic workflows, LLM evaluation) end to end, from the distributed backends they run on to the beautiful frontends people use. 6+ years across fintech, payments and AI products, taking them from day zero to go-live.
 
 🌎 Work authorization in the EU and Brazil.
 
